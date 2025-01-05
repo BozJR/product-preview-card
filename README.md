@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Product preview card component solution
 
-This is My solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is My solution to creating a Product preview card component (internet product i.e perfume with prices/discounts etc). 
 
 ## Table of contents
 
@@ -40,9 +40,9 @@ Users should be able to:
 
 ### Continued development
 
-Getting the responive dynamic on this was totally mind numbing and i really struggled, but after much Youtube and Stackoverflow i sussed it all out!! Starting to grasp @media stuff now! watch this space. 
+Getting the responsive dynamic on this was totally mind numbing and i really struggled, but after much Youtube and Stackoverflow i sussed it all out!! Starting to grasp @media stuff now! watch this space. 
 
 ## Author
 
-- Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
+- GitHub Profile - https://github.com/BozJR?tab=repositories
 
